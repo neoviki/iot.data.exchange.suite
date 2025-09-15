@@ -2,7 +2,7 @@
 
 An IoT Data Transmission Suite with a server daemon and client library, designed for IoT applications. Traffic is transmitted over the HTTP/HTTPS protocol. It supports homegrown plant monitoring and vehicle status tracking, offering a cost-effective alternative to MQTT for lightweight, low-traffic communication. This suite is ideal for simple IoT ecosystems where frequent or intensive data exchange is not required.
 
-Architecture Overview:
+## Architecture Overview:
 
 ![IoT over HTTP/HTTPS](images/iot_over_http.png)
 
