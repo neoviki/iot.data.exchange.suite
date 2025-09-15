@@ -1,6 +1,6 @@
-## IoT Data Exchange over HTTP/HTTPS
+## IoT Data Transmission Suite
 
-An architecture harnesses vastly deployed HTTP/HTTPS infrastructure for a cost-effective Internet of Things ecosystem.
+An IoT Data Transmission Suite with a server daemon and client library, designed for IoT applications. Traffic is transmitted over the HTTP/HTTPS protocol. It supports homegrown plant monitoring and vehicle status tracking, offering a cost-effective alternative to MQTT for lightweight, low-traffic communication. This suite is ideal for simple IoT ecosystems where frequent or intensive data exchange is not required.
 
 Architecture Overview:
 
